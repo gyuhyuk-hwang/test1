@@ -25,12 +25,15 @@ export default function Header() {
       <section className={styles.navbar}>
         <Image src={Logo} alt="Etherscan Logo" className={styles.logo} />
         <section className={styles.menu}>
+          <p></p>
+          <p></p>
+          <p></p>
+          <p></p>
           <a href="/">Home</a>
-          <a href="/NFTs">NFTs</a>
-          <p>Token</p>
+          <a href="/SendETH">Send ETH</a>
           <a href="/NFT">NFT</a>
           <p>|</p>
-          <p>Sign In</p>
+          <p>Connect Metamask</p>
         </section>
       </section>
     </section>

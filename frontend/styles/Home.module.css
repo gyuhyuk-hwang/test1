@@ -133,6 +133,7 @@
 }
 
 .searchSection > h3 {
+  color: #ffffff;
   padding-bottom: 1rem;
   font-size: 1.3rem;
   letter-spacing: 0.02rem;
@@ -201,6 +202,7 @@
 }
 
 .searchResults {
+  color: #ffffff;
   background-color: #111111;
   margin: 2rem 11.5rem;
   border: 1px solid #222222;
@@ -368,6 +370,7 @@
 }
 
 .latestResults_body {
+  color: #ffffff;
   display: flex;
   justify-content: space-between;
   width: 79%;
